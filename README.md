@@ -5,11 +5,11 @@ This application handles some of the basics operations of a bank, such as custom
 
 ### Getting Started
 #### Step 1: Clone this Repository
-`git clone https://github.com/derickfelix/BankApplication` 
+`git clone https://github.com/ruthwikreddie/New-gen-banking-system` 
 #### Step 2: Build & Run
 ```shell
 ./mvn clean package
-java -jar target/BankApplication-<current version>-jar-with-dependencies.jar
+java -jar target/New-gen-banking-system-<current version>-jar-with-dependencies.jar
 ```
 
 ### Development
